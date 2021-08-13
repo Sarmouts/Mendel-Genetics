@@ -34,7 +34,7 @@ int main()
 			cout << M1 << "  | " << F1 << M1 << " | " << F2 << M1 << " | " << endl;
 			cout << M2 << "  | " << F1 << M2 << " | " << F2 << M2 << " | " << endl;
 			cout << "==================================================================================" << endl;
-			//*possibilites
+			//*possibilites of a phenotype and a genotype still in progress...
 		}
 		else 
 		{
