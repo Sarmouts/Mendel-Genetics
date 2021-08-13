@@ -34,9 +34,9 @@ int main()
 			cout << M1 << "  | " << F1 << M1 << " | " << F2 << M1 << " | " << endl;
 			cout << M2 << "  | " << F1 << M2 << " | " << F2 << M2 << " | " << endl;
 			cout << "==================================================================================" << endl;
-
+			//*possibilites
 		}
-		else /*if (!(F1 == 'A' || F1 == 'a' || F2 == 'A' || F2 == 'a' || M1 == 'A' || M1 == 'a' || M2 == 'A' || M2 == 'a'))*/
+		else 
 		{
 			cout << "Please awnser with A or a(A: epikrates gonidio, a: ypoleipomeno gonidio)" << endl;
 			cout << "==================================================================================" << endl;
