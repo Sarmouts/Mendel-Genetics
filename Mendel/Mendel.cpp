@@ -5,19 +5,22 @@
 using namespace std;
 int main()
 {
+	cout << "--Welcome to MathFlare's c++ Punnett Scuare Calculator--" << endl;
+	cout << "--------------------------------------------------------" << endl;
 	while (true)
 	{
 		char F1, F2, M1, M2;
 		cout << "Awnser with A or a(A: epikrates, a: ypoleipomeno)" << endl;
+		cout << "-------------------------------------------------" << endl;
 		cout << "Enter father's first allillomorfo gonidio for a characteristic" << endl;
 		cin >> F1;
-		
+
 		cout << "Enter father's seconde allillomorfo gonidio for the same characteristic" << endl;
 		cin >> F2;
-		
+
 		cout << "Enter mother's first allillomorfo gonidio for a characteristic" << endl;
 		cin >> M1;
-		
+
 		cout << "Enter mother's seconde allillomorfo gonidio for the same characteristic" << endl;
 		cin >> M2;
 		if (F1 == 'A' || F1 == 'a' && F2 == 'A' || F2 == 'a' && M1 == 'A' || M1 == 'a' && M2 == 'A' || M2 == 'a')
@@ -33,16 +36,16 @@ int main()
 			cout << "==================================================================================" << endl;
 
 		}
-		
+
 		else /*if (!(F1 == 'A' || F1 == 'a' || F2 == 'A' || F2 == 'a' || M1 == 'A' || M1 == 'a' || M2 == 'A' || M2 == 'a'))*/
 		{
 			cout << "Please awnser with A or a(A: epikrates gonidio, a: ypoleipomeno gonidio)" << endl;
 			cout << "==================================================================================" << endl;
 		}
-		
-			
-		
-		
+
+
+
+
 	}
 }
 //Enter father's first allillomorfo gonidio for a characteristic
