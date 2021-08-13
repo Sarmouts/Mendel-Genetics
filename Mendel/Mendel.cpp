@@ -36,7 +36,6 @@ int main()
 			cout << "==================================================================================" << endl;
 
 		}
-
 		else /*if (!(F1 == 'A' || F1 == 'a' || F2 == 'A' || F2 == 'a' || M1 == 'A' || M1 == 'a' || M2 == 'A' || M2 == 'a'))*/
 		{
 			cout << "Please awnser with A or a(A: epikrates gonidio, a: ypoleipomeno gonidio)" << endl;
