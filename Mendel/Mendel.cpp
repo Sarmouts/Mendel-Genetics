@@ -36,15 +36,11 @@ int main()
 			cout << "==================================================================================" << endl;
 			//*possibilites of a phenotype and a genotype still in progress...
 		}
-		else 
+		else
 		{
 			cout << "Please awnser with A or a(A: epikrates gonidio, a: ypoleipomeno gonidio)" << endl;
 			cout << "==================================================================================" << endl;
 		}
-
-
-
-
 	}
 }
 //Enter father's first allillomorfo gonidio for a characteristic
