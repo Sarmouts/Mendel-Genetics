@@ -14,13 +14,10 @@ int main()
 		cout << "-------------------------------------------------" << endl;
 		cout << "Enter father's first allillomorfo gonidio for a characteristic" << endl;
 		cin >> F1;
-
 		cout << "Enter father's seconde allillomorfo gonidio for the same characteristic" << endl;
 		cin >> F2;
-
 		cout << "Enter mother's first allillomorfo gonidio for a characteristic" << endl;
 		cin >> M1;
-
 		cout << "Enter mother's seconde allillomorfo gonidio for the same characteristic" << endl;
 		cin >> M2;
 		if (F1 == 'A' || F1 == 'a' && F2 == 'A' || F2 == 'a' && M1 == 'A' || M1 == 'a' && M2 == 'A' || M2 == 'a')
